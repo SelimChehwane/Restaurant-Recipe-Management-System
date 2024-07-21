@@ -1,0 +1,6 @@
+[submodule "RRMS-Front-End"]
+	path = RRMS-Front-End
+	url = https://github.com/SelimChehwane/RRMS-Front-End.git
+[submodule "RRMS-Back-End"]
+	path = RRMS-Back-End
+	url = https://github.com/SelimChehwane/RRMS-Back-End.git
